@@ -1,2 +1,24 @@
-# veda-technology-sales-dashboard
-Interactive sales performance dashboard built using Apple Numbers to analyze sales, profit, units sold, profit margin, monthly trends, regional performance, and product sales comparison.
+# Veda Technology Sales Performance Dashboard
+
+## Project Overview
+A sales performance dashboard developed using Apple Numbers to analyze retail sales data.
+
+## Key Features
+- Total Sales and Total Profit
+- Units Sold and Profit Margin
+- Monthly Sales Summary
+- Regional Sales Comparison
+- Product Sales Comparison
+- Sales performance charts
+- Month and Region filters
+
+## Tools Used
+- Apple Numbers
+- Spreadsheet formulas
+- Data visualization
+
+## Objective
+To demonstrate practical skills in sales analysis, KPI reporting, spreadsheet formulas, and business data visualization.
+
+## Dataset
+This project uses a sample retail sales dataset for learning and portfolio demonstration.
